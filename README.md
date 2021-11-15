@@ -1,6 +1,12 @@
 # Customer-Lifetime-Value
 Monetary value of transactions/purchases made by a customer with a business over his entire lifetime(time period till a customer purchases with particular Business before moving to competitors)
 
+<h2>Data Schema</h2>
+Data is divided in multiple datasets for better understanding and organization. Refering with the following data schema when working with it is helpfull:
+
+![image](https://user-images.githubusercontent.com/26667491/141727281-8f6f8b48-002a-4570-9775-3755f5e0a865.png)
+
+
 <h3><center>CLV = ((Average Sales * Purchase Frequency) / Churn) * Profit Margin</center></h3>
 Here: <br>
 
