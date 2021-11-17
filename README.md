@@ -7,6 +7,16 @@ Data is divided in multiple datasets for better understanding and organization. 
 ![image](https://user-images.githubusercontent.com/26667491/141727281-8f6f8b48-002a-4570-9775-3755f5e0a865.png)
 
 ----
+<h3>Prerequisite:</h3>
+
+* Prob. Den. Function
+* Poisson Distribution
+* Gamma Distribution
+* P value
+* Beta Distribution
+
+----
+
 <h3><center>CLV = ((Average Sales * Purchase Frequency) / Churn) * Profit Margin</center></h3>
 Here: <br>
 
