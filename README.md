@@ -17,7 +17,7 @@ Data is divided in multiple datasets for better understanding and organization. 
 
 ----
 
-<h3><center>CLV = ((Average Sales * Purchase Frequency) / Churn) * Profit Margin</center></h3>
+<h3><center> $$CLV = ((Average Sales * Purchase Frequency) / Churn) * Profit Margin$$ </center></h3>
 Here: <br>
 
 * `Average Sales` = `Total Sales` / `Total Number of Orders`
