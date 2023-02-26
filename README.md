@@ -127,7 +127,6 @@ I am applying analysis to company (Olist) and carefully examining registered cus
 2. Then analyze their historical purchasing paths, infer their probability of leaving and generalize Olist customers via RF Matrices
 3. Take models presented one step further and perform a bottom-up financial valuation of Olist to determine how much it is worth today
 
-------
 -----
 **`How Modelling will be done??`** <br>
 First step to customer analysis is to find a good mathematical model to describe customer repeat purchases <br>
