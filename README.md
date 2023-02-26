@@ -154,7 +154,7 @@ I will be introducing and actively using `BG/NBD model` within our analysis, bot
 * at last we assume that `λ` and `p%` across customers are jointly independent
   * This makes some of math later on much easier
   
-<center><h2> $$λ ~ γ(a,r),p ~ β(a,b)$$ </h2></center>
+<center><h1> $$λ ~ γ(a,r),p ~ β(a,b)$$ </h1></center>
 
 -----
 ## `Models Family`:
